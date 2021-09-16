@@ -50,10 +50,12 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="4dp"
+            android:id="@+id/pass_text_input"
             android:hint="@string/shr_hint_password">
             <com.google.android.material.textfield.TextInputEditText
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:id="@+id/pass_edit_text"
                 android:inputType="textPassword"/>
         </com.google.android.material.textfield.TextInputLayout>
 
