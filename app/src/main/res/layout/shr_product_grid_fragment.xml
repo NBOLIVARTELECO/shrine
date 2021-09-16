@@ -16,7 +16,7 @@
             android:id="@+id/app_bar"
             app:title="@string/shr_app_name"
             app:navigationIcon="@drawable/shr_menu"/>
-            style="@style/Widget.Shrine.Toolbar"
+<!--            style="@style/Widget.Shrine.Toolbar"-->
 
 
     </com.google.android.material.appbar.AppBarLayout>
